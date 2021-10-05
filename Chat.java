@@ -1,6 +1,5 @@
 // Title: Chat.java
 // Rudolph Hanzes HAN7739@CALU.EDU
-// Luke Tingly TIN2093@Calu.edu
 // Robby Minerd MIN6111@CALU.EDU
 // CET - 350 Technical Computing using Java
 // Group 7
